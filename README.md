@@ -14,6 +14,12 @@ Con el objetivo de avanzar en la transparencia y el acceso a la información sob
 | `url (acceso)`     | Ruta o enlace donde se puede ubicar el archivo del caso de referencia.      |
 
 
+| Variable           | Descripción                                                                 | Fuente / Responsable       | Periodicidad     | Última Actualización |
+|--------------------|------------------------------------------------------------------------------|-----------------------------|------------------|-----------------------|
+| `codigo_proyecto`  | Identificador único del proyecto asociado al archivo.                       | Departamento de Estudios    | Según convocatoria| 2025-10-15            |
+| `nombre_concurso`  | Nombre del concurso o convocatoria en el que se enmarca el proyecto.        | Departamento de Estudios    | Según convocatoria| 2025-10-15            |
+| `nombre_archivo`   | Nombre del archivo que contiene la información del proyecto.                | Departamento de Estudios    | Según necesidad   | 2025-10-15            |
+
 
 <p align="justify">
 Importante: Solo se incluyen proyectos que han sido adjudicados, es decir, beneficiarios formales de financiamiento. 
