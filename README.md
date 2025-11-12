@@ -10,8 +10,10 @@ Con el objetivo de avanzar en la transparencia y el acceso a la información sob
 |--------------------|-----------------------------------------------------------------------------|-----------------------------|------------------------|
 | `codigo_proyecto`  | Identificador único del proyecto asociado al archivo.                       | FONDECYT                    | 2025-10-15             |
 | `nombre_concurso`  | Nombre del concurso o convocatoria en el que se enmarca el proyecto.        | FONDECYT                    | 2025-10-15             |
+| `agno_fallo`       | Año de fallo.                                                               | FONDECYT                    | 2025-10-15             |
 | `nombre_archivo`   | Nombre del archivo que contiene la información del proyecto.                | FONDECYT                    | 2025-10-15             |
 | `url (acceso)`     | Ruta o enlace donde se puede ubicar el archivo del caso de referencia.      | FONDECYT                    | 2025-10-15             |
+
 
 
 <p align="justify">
